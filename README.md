@@ -1,1 +1,1 @@
-# Repo-2
+A password generator is a tool that creates strong, random passwords to enhance security. Users canspecify criteria such as password length and the inclusion of uppercase letters, lowercase letters,numbers, and special characters. The generated passwords are typically complex and difficult to guess,helping to protect user accounts and sensitive information.
